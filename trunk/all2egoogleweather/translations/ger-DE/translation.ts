@@ -1,0 +1,42 @@
+<!DOCTYPE TS>
+<TS>
+    <context>
+        <name>extension/all2egoogleweather</name>
+        <message>
+            <source>Zip</source>
+            <translation>PLZ</translation>
+        </message>
+        <message>
+            <source>City</source>
+            <translation>Ort</translation>
+        </message>
+        <message>
+            <source>Country</source>
+            <translation>Land</translation>
+        </message>
+        <message>
+            <source>Today</source>
+            <translation>Heute</translation>
+        </message>
+        <message>
+            <source>Condition</source>
+            <translation>Wetter</translation>
+        </message>
+        <message>
+            <source>Temperature</source>
+            <translation>Temperatur</translation>
+        </message>
+        <message>
+            <source>(in Celsius)</source>
+            <translation>(in Celsius)</translation>
+        </message>
+        <message>
+            <source>Humidity</source>
+            <translation>Luftfeuchtigkeit</translation>
+        </message>
+        <message>
+            <source>Icon</source>
+            <translation>Icon</translation>
+        </message>
+    </context>
+</TS>
